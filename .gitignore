@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RGG_Autok/.vs/RGG_Autok
+/RGG_Autok/packages
+/RGG_Autok/RGG_Autok/bin/Debug
+/RGG_Autok/RGG_Autok/obj/Debug
