@@ -24,7 +24,8 @@ namespace RGG_Autok
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            DBManagementForm form2 = new DBManagementForm();
+            form2.ShowDialog();
         }
     }
 }
